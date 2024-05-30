@@ -1,0 +1,1843 @@
+@media only screen and (max-width: 1250px) {
+  .home {
+    padding: 8rem 0 1rem;
+  }
+
+  .leftsidetext{
+    margin-bottom: 0px;
+    padding-left: 0px;
+  }
+
+  .best-text {
+    font-size: 2.8rem;
+  }
+  
+  .rightsidetext {
+    width: 41%;
+  }
+
+  .card-image {
+    width: 96px;
+  }
+
+  .factory-hero_content {
+    left: 46%;
+  }
+
+  .product-home-text {
+    padding: 8rem 11rem 0;
+  }
+
+  .carousel-item h1 {
+    margin-bottom: 16.5%;
+  }
+
+  .about-owner {
+    padding: 5rem 0 6rem 0;
+  }
+}
+
+@media only screen and (max-width: 1230px) {
+  .pg {
+    margin-top: 3rem;
+  }
+
+  .product-home {
+    height: 74vh;
+  }
+
+  .product-home-text {
+    padding: 8rem 8rem 0;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .about {
+    height: 85vh;
+  }
+
+  .service {
+    padding: 5rem 0;
+  }
+
+  .service-box {
+    padding: 1rem 4rem;
+  }
+
+  .accordion-section {
+    gap: 4rem;
+  }
+
+  .factory-home h1 {
+    font-size: 4rem;
+  }
+
+  .product-home-text h1 {
+    font-size: 2.7rem;
+  }
+
+  .lead {
+    font-size: 1.3rem;
+  }
+
+  .company-aspects {
+    padding: 4rem 0;
+  }
+
+  .factory-about {
+    padding: 4rem 0;
+  }
+
+  .factory-features {
+    padding: 0rem 0 1rem;
+  }
+
+  .godown-about {
+    padding: 0 0 2rem;
+  }
+
+  .vision-end {
+    padding: 2rem 0;
+  }
+}
+
+@media only screen and (max-width: 1108px) {
+  .leftsidetext {
+    width: 394px;
+  }
+
+  .section-heading {
+    padding-top: 0px;
+  }
+
+  .best-text {
+    font-size: 2.6rem;
+  }
+
+  .owner-bio {
+    font-size: 1.12rem;
+  }
+
+  .card-image {
+    width: 93px;
+  }  
+
+  .photo-gallery .container {
+    width: 96vw;
+    height: 53vmin;
+  }
+
+  .faq-section img {
+    max-width: 95%;
+  }
+
+  .faq-section__content {
+    bottom: -50px;
+    right: -4px;
+    padding: 34px;
+  }
+
+  .accordion-section {
+    gap: 3rem;
+  }
+
+  .factory-hero_content {
+    left: 48%;
+  }
+
+  .factory-home h1 {
+    font-size: 3.5rem;
+  }
+
+  .product-photos, .product-features{
+    padding: 4.5rem 0 3rem;
+  }
+}
+
+
+@media screen and (max-width: 1024px) {
+  .home {
+    padding: 5rem 0 7rem;
+    height: 40rem;
+  }
+
+  .about {
+    height: 34rem;
+  }
+  
+  .service {
+    padding: 4rem 0;
+  }
+
+  .service-box {
+    padding: 1rem 2rem;
+  }
+
+  .about-factory {
+    padding: 4rem 0px 2rem;
+  }
+
+  .photo-gallery {
+    padding: 4rem 0 ;
+  }
+
+  .faq {
+    padding: 5rem 0 2rem;
+  }
+
+  .faq-section__content {
+    width: 252px;
+    height: 280px;
+    bottom: -50px;
+    right: -4px;
+    padding: 31px;
+  }
+
+  .brand-logo {
+    padding: 3rem 0 0;
+  }
+
+  .brand-bg {
+    padding: 0;
+    height: 32rem;
+  }
+
+  .footer {
+    padding: 5rem 3rem 3rem;
+  }
+
+  .carousel-item h1 {
+    font-size: 3rem;
+    margin-bottom: 22%;
+  }
+
+  .about-owner {
+    padding: 4rem 0 4.5rem;
+  }
+
+  .factory-hero_content {
+    left: 46%;
+  }
+
+}
+
+@media only screen and (max-width: 995px) {
+  .home {
+    padding: 7rem 0;
+  }
+
+  .rightsidetext {
+    width: 38%;
+  }
+
+  .factory-subheading {
+    font-size: 1.45rem;
+  }
+
+  .factory-text {
+    font-size: 1.02rem;
+  }
+
+  .faq {
+    padding: 5rem 0 1rem;
+  }
+
+  .accordion-section {
+    gap: 2rem;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .factory-about-img-col {
+    padding: 5px;
+  }
+
+  .fac-img {
+    margin: 0;
+  }
+
+  .product-home-text {
+    padding: 8rem 4rem 0;
+  }
+
+  .contact-row .container .row {
+    padding-top: 0 !important;
+    padding-bottom: 1rem !important;
+  }
+}
+
+@media only screen and (max-width: 920px) {
+  .about{
+    flex-wrap: wrap;
+    padding: 33px 0px;
+    height: 45.2rem;
+  }
+
+  .leftsidetext {
+    width: 50%;
+    margin-bottom: -84px;
+  }
+
+  .section-heading {
+    margin-top: -73px;
+  }
+
+  .rightsidetext {
+    width: 91.2%;
+    padding: 0;
+  }
+
+  .service-heading, .faq-heading {
+    font-size: 2.2rem;
+  }
+
+  .photo-gallery .container {
+    width: 100vw;
+  }
+
+  .carousel-item h1 {
+    font-size: 2.8rem;
+    margin-bottom: 25%;
+  }
+
+  .about-owner {
+    padding: 4rem 0;
+  }
+}
+
+@media only screen and (max-width: 904px) {
+  .about-factory {
+    padding: 4rem 0px 4rem;
+  }
+
+  .factory-subheading {
+    font-size: 1.4rem;
+  }
+  .sew-brief {
+    width: 35%;
+  }
+
+  .useful-link-grid {
+    width: 25%;
+  }
+
+  .address-grid {
+    width: 40%;
+  }
+}
+
+@media only screen and (max-width: 863px) {
+  .about{
+    height: 46rem;
+  }
+
+	.middle-image {
+	  width: 47vh;
+	}
+
+	.rightsidetext {
+    width: 86.1%;
+    margin-top: -65px;
+  }
+
+  .card-name {
+    font-size: 1.05rem;
+  }
+
+  .card-undertext {
+    font-size: 0.9rem;
+  }
+
+  .factory-row {
+    padding-top: 2rem;
+  }
+
+  .factory-text {
+    font-size: 1rem;
+  }
+
+  .carousel-item h1 {
+    font-size: 2.6rem;
+    margin-bottom: 26.5%;
+  }
+
+  .product-photos {
+    padding: 4rem 0 2rem;
+  }
+
+  .product-features {
+    padding: 4rem 0 1rem;
+  }
+}
+
+@media only screen and (max-width: 815px) {
+  .product-home-text h1 {
+    font-size: 2.5rem;
+  }
+
+  .lead {
+    font-size: 1.2rem;
+  }
+}
+
+@media only screen and (max-width: 772px) {
+  .content {
+    min-height: 49vh;
+  }
+  .footer-container {
+    padding: 0;
+  }
+
+  .sew-brief {
+    padding-left: 0;
+  }
+
+  .useful-link-grid {
+    width: 25%;
+  }
+
+  .address-grid {
+    padding-right: 0;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .btn-darken {
+    padding: 0.55rem 1rem;
+  }
+
+  .home {
+    padding: 8rem 0px 7rem;
+    height: 40rem;
+  }
+
+  .heading-xl {
+    font-size: 3.4rem;
+  }
+
+  .main-paragraph {
+    font-size: 1.2rem;
+  }
+
+  .about {
+    height: 45rem;
+  }
+
+	.leftsidetext {
+    width: 424px;
+  }
+
+	.rightsidetext {
+    width: 93.7%;
+  }
+
+  .card {
+    width: 100%;
+  }
+
+  .card-about {
+    width: 100%;
+  }
+
+  .card-image {
+    width: 142px;
+  }
+
+  .card-name {
+    font-size: 1.3rem;
+  }
+
+  .card-undertext {
+    font-size: 1.05rem;
+  }
+
+  .service {
+    padding: 64px 0px;
+  }
+
+  .service-heading {
+    font-size: 2.16rem;
+  }
+
+  .service-box {
+    padding: 0.8rem;
+  }
+
+  .service-11 .wrap-service11-box {
+    margin-top: 47px;
+    padding: 0px 6px 0px 6px;
+  }
+
+  .about-factory {
+    padding: 4rem 0px 4rem;
+  }
+
+  .factory-img-row {
+    justify-content: start;
+  }
+
+  .factory-text {
+    font-size: 1.03rem;
+  }
+
+  .faq {
+    padding: 3rem 0 2rem;
+  }
+
+  .faq-section__content {
+    right: -80px;
+  }
+
+  .accordion-section {
+    flex-direction: column;
+    gap: 5rem;
+  }
+
+  .accordion-right {
+    width: 100%;
+  }
+
+  .projectFactsWrap .item {
+    flex: 0 0 50%;
+  }
+
+  .brand-logo {
+    padding: 4rem 0 0;
+  }
+
+  .brand-bg {
+    height: 32rem;
+  }
+
+  .footer {
+    padding: 5rem 0 3rem;
+  }
+
+  .sew-brief {
+    width: 36%;
+  }
+
+  .useful-link-grid {
+    width: 25%;
+  }
+
+  .address-grid {
+    width: 39%;
+  }
+
+  .footer-container {
+    padding: 1rem;
+  }
+
+  .sew-brief {
+    padding-left: calc(var(--bs-gutter-x)* .5);
+  }
+
+  .address-grid {
+    padding-right: calc(var(--bs-gutter-x)* .5);
+  }
+
+  .product-home {
+    background-size: auto;
+  }
+
+  .product-home-text {
+    padding: 9rem 3rem 0;
+  }
+
+  .product-home {
+    height: 75vh; 
+  }
+
+  .carousel-item h1 {
+    font-size: 2.5rem;
+    margin-bottom: 28%;
+  } 
+
+  .owner-info p {
+    font-size: 1.099rem !important;
+  }
+
+  .company-aspects {
+    background-position: top;
+  }
+
+  .brief-row, .endeavour, .mission, .vision {
+    margin-top: 4rem;
+  }
+
+  .factory-home h1 {
+    font-size: 3.1rem;
+  }
+
+  .factory-about {
+    padding: 3rem 0;
+  }
+
+  .godown-features {
+    padding: 1rem 0 0;
+  }
+
+  .vision-end {
+    padding: 0 0 2rem;
+  }
+}
+
+@media only screen and (max-width: 738px) {
+	.leftsidetext {
+    width: 385px;
+  }
+
+	.best-text {
+    font-size: 2.3rem;
+  }
+
+	.text40 {
+  	font-size: 7rem;
+	  bottom: 40px;
+	}
+
+	.year {
+	  font-size: 1.1rem;
+ 	  bottom: 165px;
+    left: 156px;
+	}
+
+  .footer {
+    padding: 3.5rem 0 1rem;
+  }
+
+  .features-container .row1 {
+    padding-top: 2rem !important;
+    padding-bottom: 1rem !important;
+  }
+}
+
+@media only screen and (max-width: 708px) {
+  .section-heading {
+    margin-top: -75px;
+    margin-bottom: 52px;
+  }
+
+  .leftsidetext {
+    width: 349px;
+    margin-top: -78px;
+  }
+
+  .faq-section__content {
+    right: -70px;
+  }
+
+  .footer {
+    padding: 4.5rem 0 0rem;
+  }
+
+  .footer-container {
+    padding: 0 2rem;
+  }
+
+  .sew-brief, .useful-link-grid, .address-grid {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+
+  .address-links .address1{
+    display: block;
+  }
+
+  .contact-row {
+    padding: 3rem 0;
+  }
+}
+
+@media only screen and (min-width: 701px) {
+  .factory-hero_content {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 52%;
+    transform: translate(0%, -50%);
+    transition: all ease 0.3s;
+  }
+
+  .factory-home h1 {
+    color: #235b88;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .factory-hero_content {
+    background-color: #70b7ff;
+    position: absolute;
+    width: 400px;
+    padding: 20px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+  }
+
+}
+
+@media only screen and (max-width: 658px) {
+  .leftsidetext {
+    width: 358px;
+  }
+
+  .middle-image {
+    width: 39vh;
+  }
+
+  .faq-section__content {
+    right: -35px;
+  }
+
+  .carousel-item h1 {
+    font-size: 2.4rem;
+    margin-bottom: 31%;
+  }
+
+  .contact-container p {
+    padding: 0 1rem;
+  }
+}
+
+@media only screen and (max-width: 630px) {
+  .banner-column {
+    margin-top: 2rem;
+  }
+
+  .heading-xl {
+    font-size: 3.2rem;
+  }
+
+  .main-paragraph {
+    font-size: 1.1rem;
+  }
+
+  .about {
+    padding: 13px 0px;
+  }
+
+  .about-bg {
+    height: 41.5rem;
+  }
+
+  .leftsidetext {
+    width: 315px;
+  }
+
+  .section-heading {
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-top: -95px;
+  }
+
+  .best-text {
+    font-size: 2rem;
+    font-weight: 400;
+  }
+
+  .text40 {
+    font-size: 6.5rem;
+    bottom: 37px;
+  }
+
+  .year {
+    font-size: 1rem;
+    bottom: 154px;
+    left: 144px;
+  }
+
+  .owner-bio {
+    font-size: 1.1rem;
+  }
+
+  .rightsidetext {
+    width: 90%;
+    margin-top: -127px;
+  }
+
+  .faq {
+    padding: 3rem 0 2rem;
+  }
+
+  .faq-section__content {
+    right: 0px;
+  }
+
+  .footer {
+    padding: 3rem 0 0rem;
+  }
+
+  .carousel-item h1 {
+    font-size: 2.2rem;
+    margin-bottom: 34%;
+  }
+
+  .featurette-heading {
+    font-size: 2.1rem;
+  }
+}
+
+@media only screen and (max-width: 584px) {
+  .about-bg {
+    height: 54rem;
+  }
+
+	.leftsidetext {
+    width: auto;
+    margin-top: -16px;
+  }
+
+  .section-heading, .best-text {
+    text-align: center;
+  }
+
+  .best-text {
+    font-size: 2.18rem;
+    font-weight: 500;
+  }
+
+  .text40 {
+    bottom: 33px;
+    left: 109px;
+    margin-bottom: -15px;
+  }
+
+  .year {
+    font-size: 1.1rem;
+    bottom: 122px;
+    left: 245px;
+  }
+
+  .rightsidetext {
+    width: 91%;
+    margin-top: 29px;
+  }
+
+  .carousel-item h1 {
+    font-size: 2.18rem;
+    margin-bottom: 39%;
+  }
+
+  .owner-bio {
+    font-size: 1rem;
+  }
+
+  .service-heading {
+    font-size: 2.1rem;
+  }
+}
+
+@media (max-width: 575.5px) {
+  .about-bg {
+    height: 56rem;
+  }
+
+  .content{
+    padding: 20px;
+  }
+
+  .content .container{
+    padding: 20px;
+  }
+
+  .pg {
+    margin-top: 2rem;
+  }
+
+  .h3{
+    font-size: calc(1.1rem + .6vw);
+  }
+
+  .fs-5 {
+    font-size: 1.05rem!important;
+  }
+
+  .container .rollers .wrapper .items-container .item .company{
+    opacity: 1;
+  }
+
+  .carousel-item h1 {
+    font-size: 2.15rem;
+  }
+
+  .product-home-text {
+    padding: 8rem 2rem 0;
+  }
+
+  .product-home-text h1 {
+    font-size: 2.2rem;
+  }
+
+  .product-features {
+    padding: 3rem 0 0rem;
+  }
+
+  .brief-row {
+    margin-top: 3.5rem;
+  }
+
+  .fac-img {
+    width: 56%;
+    height: 17rem;
+  }
+}
+
+@media only screen and (max-width: 525px) {
+  .btn-darken {
+    padding: 0.50rem 1rem;
+  }
+
+  .heading-xl {
+    font-size: 3.09rem;
+  }
+
+  .main-paragraph {
+    font-size: 1.1rem;
+  }
+
+  .carousel-item h1 {
+    font-size: 2rem;
+    margin-bottom: 45%;
+  }
+}
+
+@media only screen and (max-width: 508px) {
+  .home {
+    padding-top: 6.5rem;
+  }
+
+  .heading-xl {
+    font-size: 3rem;
+  }
+
+  .main-paragraph {
+    font-size: 1.05rem;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .about-bg {
+    height: 59rem;
+  }
+
+  .faq {
+    padding: 2.5rem 0 2rem;
+  }
+
+  .faq-section-img {
+    height: 390px;
+  }
+
+  .faq-section__content {
+    width: 224px;
+    height: 252px;
+  }
+
+  .faq-section_title {
+    font-size: 1.9rem;
+  }
+
+  .faq-svg-icon svg {
+    width: 1.3em;
+    height: 1.2em;
+  }
+
+  .faq-section_icon {
+    padding: 11px;
+    font-size: 0.7rem;
+  }
+
+  .content {
+    padding: 10px;
+  }
+
+  .about-owner {
+    padding: 4rem 0 3rem;
+  }
+
+  .owner-info p {
+    font-size: 1rem !important;
+  }
+
+  .featurette-heading {
+    font-size: 2rem;
+  }
+
+  .about-lead {
+    font-size: 1.1rem;
+  }
+
+  .fac-img {
+    width: 60%;
+    height: 16rem;
+  }
+
+  .factory-features {
+    padding: 0;
+  }
+}
+
+@media only screen and (max-width: 466px) {
+  .heading-xl {
+    font-size: 2.8rem;
+  }
+
+  .best-text {
+    margin-top: -19px;
+  }
+
+  .faq-section-img {
+    height: 360px;
+  }
+
+  .carousel-item h1 {
+    margin-bottom: 52%;
+  }
+
+  .company-aspects-img {
+    height: 400px;
+  }
+
+  .factory-hero_content {
+    width: 375px;
+  }
+
+  .factory-home h1 {
+    font-size: 2.8rem;
+  }
+
+  .fac-img {
+    width: 56%;
+    height: 15rem;
+  }
+}
+
+@media only screen and (max-width: 437px) {
+  .home {
+    padding-top: 6rem;
+  }
+
+	.text40 { 
+	  left: 95px;	
+	}
+
+	.year {
+    left: 235px;
+  }
+
+  .card-name {
+    font-size: 1.2rem;
+  }
+
+  .card-undertext {
+    font-size: 1rem;
+  }
+
+  .service-heading {
+    font-size: 1.9rem;
+  }
+
+  .carousel-item h1 {
+    font-size: 2.3rem;
+    margin-bottom: 45%;
+  }
+
+  .featurette-heading {
+    font-size: 1.85rem;
+  }
+
+  .endeavour, .mission, .vision {
+    margin-top: 3.5rem;
+  }
+
+  .factory-subheading {
+    font-size: 1.3rem;
+  }
+
+  .factory-text {
+    font-size: 1rem;
+  }
+
+  .factory-hero_content {
+    width: 330px;
+  }
+
+  .features-container .row1 {
+    padding-top: 1.5rem !important;
+  }
+
+  .fac-img {
+    width: 63%;
+    height: 15rem;
+  }
+
+  .contact-container {
+    padding: 5rem 0 2rem;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .faq-section-img {
+    height: 340px;
+  }
+
+  .lead {
+    font-size: 1.1em;
+  }
+
+  .product-photos {
+    padding: 2.5rem 0 1rem;
+  }
+
+  .company-aspects {
+    padding: 3rem 0;
+  }
+
+  .company-aspects-img {
+    height: 370px;
+  }
+
+  .fac-img {
+    width: 63%;
+    height: 14rem;
+    margin: 0 4rem;
+  }
+
+}
+
+@media only screen and (max-width: 394px) {
+  .about-bg {
+    height: 62rem;
+  }
+
+  .factory-row {
+    padding-top: 1.7rem;
+  }
+
+  .factory-text {
+    font-size: 0.9rem;
+  }
+
+  .footer-copyright-text {
+    line-height: 26px;
+    font-size: 16px;
+  }
+
+  .carousel-item h1 {
+    font-size: 2.2rem;
+    margin-bottom: 51%;
+  }
+
+  .endeavour, .mission, .vision {
+    margin-top: 3rem;
+  }
+
+}
+
+@media only screen and (max-width: 390px) {
+  .faq-section-img {
+    height: 320px;
+  }
+
+  .product-home {
+    height: 90vh;
+  }
+
+  .about-lead {
+    font-size: 1.02rem;
+  }
+
+  .fac-img {
+    width: 66%;
+    height: 14rem;
+    margin: 0 3.5rem;
+  }
+}
+
+@media only screen and (max-width: 376px) {
+  .home {
+    padding-top: 5rem;
+  }
+
+  .heading-xl {
+    font-size: 2.54rem;
+  }
+
+	.text40 { 
+	  left: 74px;	
+	}
+
+	.year {
+    left: 213px;
+  }
+
+  .faq-section-img {
+    height: 300px;
+  }
+
+  .carousel-item h1 {
+    font-size: 2.1rem;
+    margin-bottom: 45%;
+  }
+
+  .owner-bio {
+    text-align: center;
+  }
+
+  .service-heading {
+    font-size: 1.8rem;
+  }
+
+  .company-aspects-img {
+    height: 320px;
+  }
+
+  .fac-img {
+    width: 66%;
+    height: 13rem;
+    margin: 0 3.5rem;
+  }
+
+  .factory-hero_content {
+    width: 285px;
+  }
+
+  .factory-home h1 {
+    font-size: 2.5rem;
+  }
+
+  .factory-features .row {
+    padding-bottom: 2rem !important;
+  }
+
+  .contact {
+    padding: 2rem 1rem;
+  }
+}
+
+@media only screen and (max-width: 331px) {
+	.text40 { 
+	  left: 50px;	
+	}
+
+	.year {
+    left: 188px;
+  }
+
+  .card-image {
+    width: 124px;
+  }
+
+  .card-name {
+    font-size: 1.1rem;
+  }
+
+  .card-undertext {
+    font-size: 0.92rem;
+  }
+
+  .faq-section-img {
+    height: 275px;
+  }
+
+  .product-home-text h1 {
+    font-size: 2rem;
+  }
+
+  .lead {
+    font-size: 1rem;
+  }
+
+  .product-home {
+    height: 85vh;
+  }
+
+  .carousel-item h1 {
+    font-size: 1.8rem;
+    margin-bottom: 66%;
+  }
+
+  .featurette-heading {
+    font-size: 1.6rem;
+  }
+
+  .about-lead {
+    font-size: 1rem;
+  }
+
+  .company-aspects-img {
+    height: 260px;
+  }
+
+  .fac-img {
+    width: 77%;
+    height: 12rem;
+    margin: 0 2rem;
+  }
+
+  .factory-hero_content {
+    width: 255px;
+  }
+
+  .factory-home h1 {
+    font-size: 2.3rem;
+  }
+
+  .factory-features .row, .godown-features .row {
+    padding-bottom: 1rem !important;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .menu-block {
+    display: none;
+  }
+
+  .home {
+    height: 42rem;
+  }
+
+  .about-bg {
+    height: 59rem;
+  }
+
+  .best-text {
+    font-size: 2rem;
+  }
+
+  .year {
+    left: 171px;
+    bottom: 115px;
+    font-size: 1rem;
+  }
+
+  .text40 {
+    left: 52px;
+    font-size: 5.5rem;
+  }
+
+  .service-heading {
+    font-size: 1.5rem;
+  }
+
+  .service-11 .icon-round {
+    width: 64px;
+    line-height: 61px;
+  }
+
+  .service-11 .wrap-service11-box .icon-space .icon-round {
+    font-size: 31px;
+  }
+
+  .faq-section-img {
+    height: 260px;
+  }
+
+  .carousel-item h1 {
+    font-size: 1.8rem;
+    margin-bottom: 66%;
+  }
+
+  .endeavour, .mission, .vision {
+    margin-top: 2.8rem;
+  }
+
+  .company-aspects-img {
+    height: 250px;
+  }
+}
+
+@media only screen and (max-width: 304px) {
+  .faq-section-img {
+    height: 230px;
+  }
+
+  .footer-container {
+    padding: 0 1rem;
+  }
+
+  .footer-about p, .use-links li a, .address-links, .address-links li a {
+    color: #000000c9;
+  }
+
+  .about-owner {
+    padding: 2.5rem 0 2rem;
+  }
+
+  .brief-row {
+    margin-top: 3rem;
+  }
+
+  .factory-hero_content {
+    width: 240px;
+  }
+
+  .fac-img {
+    width: 77%;
+    height: 12rem;
+    margin: 0 0.5rem;
+  }
+
+  .contact-container {
+    padding: 5rem 0 2rem;
+  }
+
+  .contact-bg {
+    background-color: aliceblue;
+    padding: 2rem 0;
+  }
+
+  .contact h1 {
+    font-size: 1.5rem;
+    padding: 0 5px;
+  }
+}
+
+@media only screen and (max-width: 288px) {
+  .home {
+    height: 41rem;
+  }
+
+  .about-bg {
+    height: 62rem;
+  }
+
+  .best-text {
+    font-size: 1.8rem;
+  }
+
+  .text40 {
+    left: 44px;
+    font-size: 5.2rem;
+  }
+
+  .year {
+    left: 156px;
+    bottom: 103px;
+  }
+
+  .card-about {
+    width: 100%;
+    padding: 0 9px;
+  }
+
+  .faq-section-img {
+    height: 220px;
+  }
+
+  .carousel-item img {
+    height: 60vh;
+  }
+
+  .carousel-item h1 {
+    font-size: 1.65rem;
+    margin-bottom: 57%;
+  }
+
+  .company-aspects-img {
+    height: 230px;
+  }
+
+  .factory-subheading {
+    font-size: 1.2rem;
+  }
+
+  .title {
+    padding: 0px 0px 13px 0px;
+    border-width: 0px 0px 1px 0px;
+  }
+  
+  .contact-row .col p {
+    font-size: 0.98rem;
+  }
+}
+
+@media only screen and (max-width: 272px) {
+  .home {
+    height: 44rem;
+  }
+
+  .text40 {
+    left: 32px;
+  }
+
+  .year {
+    left: 142px;
+  }
+
+  .card-image {
+    width: 135px;
+  }
+
+  .faq-section__content {
+    right: -15px;
+  }
+
+  .footer-about p, .use-links li a, .address-links li a {
+    font-size: 0.9rem;
+  }
+
+  .address-links .address1 {
+    font-size: 0.9rem;
+  }
+
+  .address-links li i {
+    font-size: 15px;
+  }
+
+  .carousel-item h1 {
+    margin-bottom: 59%;
+  }
+
+  .company-aspects-img {
+    height: 220px;
+  }
+
+  .factory-hero_content {
+    width: 210px;
+    padding: 10px;
+  }
+
+  .factory-home h1 {
+    font-size: 2.15rem;
+  }
+
+  .fac-img {
+    width: 79%;
+    height: 11rem;
+    margin: 0 0.5rem;
+  }
+
+  .contact-row .container {
+    padding: 0 0 0 5px;
+  }
+
+  .title {
+    font-size: 1.5rem !important;
+  }
+
+  .contact-row .col p {
+    font-size: 0.94rem;
+  }
+}
+
+@media only screen and (max-width: 255px) {
+  .faq-section__content {
+    right: -6px;
+    width: 216px;
+    height: 248px;
+    bottom: -25px;
+  }
+
+  .product-home {
+    height: 98vh;
+  }
+
+  .carousel-item h1 {
+    font-size: 1.5rem;
+    margin-bottom: 75%;
+  }
+
+  .endeavour, .mission, .vision {
+    margin-top: 2.6rem;
+  }
+
+  .company-aspects-img {
+    height: 210px;
+  }
+
+  .fac-img {
+    width: 94%;
+    height: 12rem;
+    margin: 0 0.5rem;
+  }
+
+  .arrow {
+    margin: -50px 0px 0px -22px;
+  }
+
+  .contact-row .col p {
+    font-size: 0.9rem;
+  }
+}
+
+@media only screen and (max-width: 230px) {
+  .faq-section__content {
+    right: -11px;
+    width: 200px;
+    height: 245px;
+    bottom: -12px;
+  } 
+
+  .faq-section_title {
+    font-size: 1.7rem;
+  }
+
+  .product-home {
+    height: 42rem;
+  }
+
+  .product-home-text h1 {
+    font-size: 1.9rem;
+  }
+
+  .carousel-item h1 {
+    font-size: 1.4rem;
+    margin-bottom: 76%;
+  }
+
+  .featurette-heading {
+    font-size: 1.55rem;
+    margin-bottom: 10px;
+  }
+
+  .company-aspects-img {
+    height: 200px;
+  }
+
+  .about-lead {
+    font-size: 0.9rem;
+  }
+
+  .fac-img {
+    width: 100%;
+    height: 11rem;
+    margin: 0rem;
+  }
+
+  .title {
+    font-size: 1.3rem !important;
+  }
+
+  .contact-row .col p {
+    font-size: 0.8rem;
+  }
+}
+
+@media only screen and (max-width: 225px) {
+  .banner-inner {
+    margin-left: -12px;
+  }
+  
+  .text40 {
+    left: 13px;
+  }
+
+  .year {
+    left: 121px;
+  }
+
+  .faq-section__content {
+    right: -13px;
+    width: 198px;
+  }
+
+  .footer-container {
+    padding: 0;
+  }
+
+  .carousel-item h1 {
+    font-size: 1.3rem;
+    margin-bottom: 77%;
+  }
+
+  .company-aspects-img {
+    height: 180px;
+  }
+
+  .factory-hero_content {
+    width: 180px;
+  }
+}
+
+@media only screen and (min-width: 48rem) {
+  .menu {
+    position: relative;
+    top: 0;
+    width: auto;
+    height: auto;
+    padding: 0rem;
+    margin-left: auto;
+    background: none;
+    box-shadow: none;
+  }
+  .menu-inner {
+    display: flex;
+    flex-direction: row;
+    column-gap: 2rem;
+    margin: 0 auto;
+  }
+  .menu-link {
+    text-transform: capitalize;
+  }
+  .menu-block {
+    margin-left: 2rem;
+  }
+}
+
+.burger {
+  position: relative;
+  display: block;
+  cursor: pointer;
+  user-select: none;
+  order: -1;
+  z-index: 10;
+  width: 1.6rem;
+  height: 1.15rem;
+  border: none;
+  outline: none;
+  background: none;
+  visibility: visible;
+  transform: rotate(0deg);
+  transition: 0.35s ease;
+}
+@media only screen and (min-width: 48rem) {
+  .burger {
+    display: none;
+    visibility: hidden;
+  }
+}
+.burger-line {
+  position: absolute;
+  display: block;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  border: none;
+  outline: none;
+  opacity: 1;
+  border-radius: 1rem;
+  transform: rotate(0deg);
+  background-color: var(--color-white-100);
+  transition: 0.25s ease-in-out;
+}
+.burger-line:nth-child(1) {
+  top: 0px;
+}
+.burger-line:nth-child(2) {
+  top: 0.5rem;
+  width: 70%;
+}
+.burger-line:nth-child(3) {
+  top: 1rem;
+}
+.burger.is-active .burger-line:nth-child(1) {
+  top: 0.5rem;
+  transform: rotate(135deg);
+}
+.burger.is-active .burger-line:nth-child(2) {
+  opacity: 0;
+  visibility: hidden;
+}
+.burger.is-active .burger-line:nth-child(3) {
+  top: 0.5rem;
+  transform: rotate(-135deg);
+}
+
+.banner-column {
+  position: relative;
+  display: grid;
+  align-items: center;
+  row-gap: 3rem;
+}
+@media only screen and (min-width: 48rem) {
+  .banner-column {
+    /* grid-template-columns: repeat(2, minmax(0, 1fr)); */
+    justify-content: center;
+    margin-top: 4rem;
+  }
+
+}
+@media only screen and (min-width: 64rem) {
+  .banner-column {
+    grid-template-columns: 1fr max-content;
+    column-gap: 4rem;
+    margin-top: 4.5rem;
+  }
+}
+.banner-image {
+  display: block;
+  max-width: 18rem;
+  height: auto;
+  margin-top: 2rem;
+  object-fit: cover;
+  justify-self: center;
+}
+@media only screen and (min-width: 48rem) {
+  .banner-image {
+    order: 1;
+    max-width: 20rem;
+    height: auto;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .banner-image {
+    max-width: 25rem;
+    height: auto;
+    margin-right: 5rem;
+  }
+}
+.banner-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  row-gap: 1.75rem;
+}
+.banner-links {
+  position: absolute;
+  top: 30%;
+  right: 1.5rem;
+  display: grid;
+  justify-items: center;
+  row-gap: 0.5rem;
+  opacity: 0;
+  visibility: hidden;
+}
+@media only screen and (min-width: 64rem) {
+  .banner-links {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+.banner-links > * {
+  font-size: 1.25rem;
+  line-height: 1.25;
+  color: var(--color-white-100);
+}
+.banner-links::before {
+  position: absolute;
+  content: "";
+  top: -3rem;
+  width: 4rem;
+  height: 1.5px;
+  transform: rotate(90deg);
+  background: var(--color-white-100);
+}
+.banner-links::after {
+  position: absolute;
+  content: "";
+  bottom: -3rem;
+  width: 4rem;
+  height: 2px;
+  transform: rotate(90deg);
+  background: var(--color-white-100);
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+
+@media (min-width: 40em) {
+  .featurette-heading {
+    font-size: 46px;
+    margin-top: 0px;
+    margin-bottom: 2rem;
+  }
+}
