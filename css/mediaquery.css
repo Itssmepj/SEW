@@ -47,7 +47,7 @@
   }
 
   .product-home-text {
-    padding: 8rem 8rem 0;
+    padding: 10.5rem 8rem 0;
   }
 }
 
@@ -257,7 +257,7 @@
   }
 
   .product-home-text {
-    padding: 8rem 4rem 0;
+    padding: 12rem 4rem 0;
   }
 
   .contact-row .container .row {
@@ -361,6 +361,10 @@
     margin-bottom: 26.5%;
   }
 
+  .product-home-text {
+    padding: 11rem 4rem 0;
+  }
+
   .product-photos {
     padding: 4rem 0 2rem;
   }
@@ -384,6 +388,7 @@
   .content {
     min-height: 49vh;
   }
+
   .footer-container {
     padding: 0;
   }
@@ -542,7 +547,7 @@
   }
 
   .product-home-text {
-    padding: 9rem 3rem 0;
+    padding: 11rem 3rem 0;
   }
 
   .product-home {
@@ -613,6 +618,12 @@
   }
 }
 
+@media only screen and (max-width: 717px) {
+  .product-home-text {
+    padding: 11rem 2rem 0;
+  }
+}
+
 @media only screen and (max-width: 708px) {
   .section-heading {
     margin-top: -75px;
@@ -657,7 +668,7 @@
 
 @media only screen and (max-width: 703px) {
   .product-home-text {
-    padding: 9rem 2.5rem 0;
+    padding: 10rem 2.5rem 0;
   }
 }
 
@@ -692,13 +703,7 @@
 
 @media only screen and (max-width: 687px) {
   .product-home-text {
-    padding: 9rem 2rem 0;
-  }
-}
-
-@media only screen and (max-width: 687px) {
-  .product-home-text {
-    padding: 8rem 2rem 0;
+    padding: 10rem 2rem 0;
   }
 }
 
@@ -803,13 +808,19 @@
   }
 }
 
-@media only screen and (max-width: 597px) {
+@media only screen and (max-width: 616px) {
   .product-home {
-    height: 80vh;
+    height: 78vh;
   }
 
   .product-home-text {
-    padding: 7.5rem 2rem 0;
+    padding: 10rem 2rem 0;
+  }
+}
+
+@media only screen and (max-width: 597px) {
+  .product-home {
+    height: 80vh;
   }
 }
 
@@ -897,7 +908,7 @@
   }
 
   .product-home-text {
-    padding: 8rem 2rem 0;
+    padding: 10.5rem 2rem 0;
   }
 
   .product-home-text h1 {
@@ -931,9 +942,19 @@
     font-size: 1.1rem;
   }
 
+  .product-home-text {
+    padding: 10rem 2rem 0;
+  }
+
   .carousel-item h1 {
     font-size: 2rem;
     margin-bottom: 45%;
+  }
+}
+
+@media only screen and (max-width: 518px) {
+  .product-home-text {
+    padding: 9.7rem 2rem 0;
   }
 }
 
@@ -957,7 +978,7 @@
   }
 
   .product-home-text {
-    padding: 8.2rem 2rem 0;
+    padding: 10rem 2rem 0;
   }
 }
 
@@ -1185,11 +1206,11 @@
   }
 
   .product-home {
-    height: 90vh;
+    height: 86vh;
   }
 
   .product-home-text {
-    padding: 9.5rem 2rem 0;
+    padding: 9rem 2rem 0;
   }
 
   .about-lead {
@@ -1265,14 +1286,18 @@
 }
 
 @media only screen and (max-width: 374px) {
+  .product-home {
+    height: 88vh;
+  }
+
   .product-home-text {
-    padding: 8.6rem 2rem 0;
+    padding: 8.8rem 2rem 0;
   }
 }
 
 @media only screen and (max-width: 364px) {
   .product-home {
-    height: 92vh;
+    height: 85vh;
   }
 
   .product-home-text {
@@ -1281,13 +1306,14 @@
 }
 
 @media only screen and (max-width: 349px) {
+  .product-home {
+    height: 82vh;
+  }
+
   .product-home-text {
     padding: 7.5rem 1.8rem 0;
   }
 
-  .product-home {
-    height: 94vh;
-  }
 }
 
 @media only screen and (max-width: 331px) {
@@ -1324,7 +1350,7 @@
   }
 
   .product-home {
-    height: 85vh;
+    height: 78vh;
   }
 
   .carousel-item h1 {
@@ -1421,10 +1447,6 @@
     height: 250px;
   }
 
-  .product-home {
-    height: 87vh; 
-  }
-
   .product-home-text h1 {
     font-size: 1.9rem;
   }
@@ -1508,6 +1530,10 @@
     height: 220px;
   }
 
+  .product-home {
+    height: 80vh;
+  }
+
   .carousel-item img {
     height: 60vh;
   }
@@ -1534,6 +1560,13 @@
     font-size: 0.98rem;
   }
 }
+
+@media only screen and (max-width: 280px) {
+  .product-home {
+    height: 83vh;
+  }
+}
+
 
 @media only screen and (max-width: 272px) {
   .home {
@@ -1568,8 +1601,12 @@
     font-size: 15px;
   }
 
+  .product-home {
+    height: 82vh;
+  }
+
   .product-home-text {
-    padding: 6.7rem 1.5rem 0;
+    padding: 7rem 1.5rem 0;
   }
 
   .carousel-item h1 {
@@ -1610,7 +1647,7 @@
 
 @media only screen and (max-width: 264px) {
   .product-home-text {
-    padding: 6.8rem 1.4rem 0;
+    padding: 7.2rem 1.4rem 0;
   }
 
   .product-home-text h1 {
@@ -1627,11 +1664,11 @@
   }
 
   .product-home {
-    height: 90vh;
+    height: 83vh;
   }
 
   .product-home-text {
-    padding: 6.5rem 1.4rem 0;
+    padding: 7.5rem 1.4rem 0;
   }
 
   .carousel-item h1 {
@@ -1662,6 +1699,16 @@
   }
 }
 
+@media only screen and (max-width: 238px) {
+  .product-home {
+    height: 85vh;
+  }
+
+  .product-home-text {
+    padding: 7.5rem 1.4rem 0;
+  }
+}
+
 @media only screen and (max-width: 230px) {
   .faq-section__content {
     right: -11px;
@@ -1675,7 +1722,7 @@
   }
 
   .product-home {
-    height: 37rem;
+    height: 39.5rem;
   }
 
   .product-home-text h1 {
@@ -1735,6 +1782,10 @@
 
   .footer-container {
     padding: 0;
+  }
+
+  .product-home {
+    height: 41.5rem;
   }
 
   .carousel-item h1 {
