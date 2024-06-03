@@ -649,6 +649,16 @@
   .contact-row {
     padding: 3rem 0;
   }
+
+  .product-home {
+    height: 77vh;
+  }
+}
+
+@media only screen and (max-width: 703px) {
+  .product-home-text {
+    padding: 9rem 2.5rem 0;
+  }
 }
 
 @media only screen and (min-width: 701px) {
@@ -678,7 +688,18 @@
     color: white;
     text-align: center;
   }
+}
 
+@media only screen and (max-width: 687px) {
+  .product-home-text {
+    padding: 9rem 2rem 0;
+  }
+}
+
+@media only screen and (max-width: 687px) {
+  .product-home-text {
+    padding: 8rem 2rem 0;
+  }
 }
 
 @media only screen and (max-width: 658px) {
@@ -779,6 +800,16 @@
 
   .featurette-heading {
     font-size: 2.1rem;
+  }
+}
+
+@media only screen and (max-width: 597px) {
+  .product-home {
+    height: 80vh;
+  }
+
+  .product-home-text {
+    padding: 7.5rem 2rem 0;
   }
 }
 
@@ -917,6 +948,16 @@
 
   .main-paragraph {
     font-size: 1.05rem;
+  }
+}
+
+@media only screen and (max-width: 503px) {
+  .product-home {
+    height: 84vh;
+  }
+
+  .product-home-text {
+    padding: 8.2rem 2rem 0;
   }
 }
 
@@ -1107,7 +1148,6 @@
     height: 14rem;
     margin: 0 4rem;
   }
-
 }
 
 @media only screen and (max-width: 394px) {
@@ -1146,6 +1186,10 @@
 
   .product-home {
     height: 90vh;
+  }
+
+  .product-home-text {
+    padding: 9.5rem 2rem 0;
   }
 
   .about-lead {
@@ -1217,6 +1261,32 @@
 
   .contact {
     padding: 2rem 1rem;
+  }
+}
+
+@media only screen and (max-width: 374px) {
+  .product-home-text {
+    padding: 8.6rem 2rem 0;
+  }
+}
+
+@media only screen and (max-width: 364px) {
+  .product-home {
+    height: 92vh;
+  }
+
+  .product-home-text {
+    padding: 7.8rem 1.8rem 0;
+  }
+}
+
+@media only screen and (max-width: 349px) {
+  .product-home-text {
+    padding: 7.5rem 1.8rem 0;
+  }
+
+  .product-home {
+    height: 94vh;
   }
 }
 
@@ -1349,6 +1419,14 @@
 
   .company-aspects-img {
     height: 250px;
+  }
+
+  .product-home {
+    height: 87vh; 
+  }
+
+  .product-home-text h1 {
+    font-size: 1.9rem;
   }
 }
 
@@ -1490,6 +1568,10 @@
     font-size: 15px;
   }
 
+  .product-home-text {
+    padding: 6.7rem 1.5rem 0;
+  }
+
   .carousel-item h1 {
     margin-bottom: 59%;
   }
@@ -1526,6 +1608,16 @@
   }
 }
 
+@media only screen and (max-width: 264px) {
+  .product-home-text {
+    padding: 6.8rem 1.4rem 0;
+  }
+
+  .product-home-text h1 {
+    font-size: 1.8rem;
+  }
+}
+
 @media only screen and (max-width: 255px) {
   .faq-section__content {
     right: -6px;
@@ -1535,7 +1627,11 @@
   }
 
   .product-home {
-    height: 98vh;
+    height: 90vh;
+  }
+
+  .product-home-text {
+    padding: 6.5rem 1.4rem 0;
   }
 
   .carousel-item h1 {
@@ -1579,7 +1675,7 @@
   }
 
   .product-home {
-    height: 42rem;
+    height: 37rem;
   }
 
   .product-home-text h1 {
