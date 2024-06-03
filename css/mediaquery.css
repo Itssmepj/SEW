@@ -1171,13 +1171,35 @@
   }
 }
 
-@media only screen and (max-width: 402px) {
+@media only screen and (max-width: 408px) {
   .product-home {
-    height: 75vh;
+    height: 79vh;
   }
 
   .product-home-text {
     padding: 9rem 2rem 0;
+  }
+
+  .product-home-text h1 {
+    font-size: 2.3rem;
+  }
+
+  .lead {
+    font-size: 1.2em;
+  }
+}
+
+@media only screen and (max-width: 402px) {
+  .product-home {
+    height: 81vh;
+  }
+
+  .product-home-text {
+    padding: 9rem 2rem 0;
+  }
+
+  .product-home-text h1 {
+    font-size: 2.2rem;
   }
 }
 
