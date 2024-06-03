@@ -1217,6 +1217,11 @@ a{
   font-size: 15px;
 }
 
+.contact-row a:hover {
+  font-weight: 500;
+  text-decoration: underline;
+}
+
 .contact-bg {
   background-color: aliceblue;
   padding: 5rem 0;  
