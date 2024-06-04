@@ -288,7 +288,7 @@ main {
 .menu-item:hover {
   text-decoration: underline;
   transition: transform 0.3s;
-  transform: scale(1.1);
+  /* transform: scale(1.1); */
 }
 
 .menu-block {
@@ -1143,20 +1143,25 @@ a{
   padding: 5rem 0;
 }
 
-.godown-about {
+.warehouse-about {
   padding: 0 0 5rem;
 }
 
-.factory-heading, .godown-heading {  
+.factory-heading, .warehouse-heading, .toolroom-heading {  
   margin-bottom: 1.5rem;
   font-weight: 600;
 }
 
-.factory-main-img, .godown-main-img {
+.factory-main-img, .warehouse-main-img {
   width: 350px;
 }
 
-.godown-main-img {
+.toolroom-main-img {
+  width: 279px;
+  height: auto;
+}
+
+.warehouse-main-img {
   height: 250px;
 }
 
@@ -1174,7 +1179,7 @@ a{
   padding: 2rem 0;
 }
 
-.godown-features {
+.warehouse-features {
   padding: 2rem 0 0;
 }
 
@@ -1219,7 +1224,6 @@ a{
 
 .contact-row a:hover {
   font-weight: 500;
-  text-decoration: underline;
 }
 
 .contact-bg {
