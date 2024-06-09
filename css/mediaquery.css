@@ -162,7 +162,7 @@
   }
 
   .about {
-    height: 34rem;
+    height: 36rem;
   }
   
   .service {
@@ -270,7 +270,7 @@
   .about{
     flex-wrap: wrap;
     padding: 33px 0px;
-    height: 45.2rem;
+    height: 45rem;
   }
 
   .leftsidetext {
@@ -285,6 +285,7 @@
   .rightsidetext {
     width: 91.2%;
     padding: 0;
+    margin-top: -84px;
   }
 
   .service-heading, .faq-heading {
@@ -328,7 +329,11 @@
 
 @media only screen and (max-width: 863px) {
   .about{
-    height: 46rem;
+    height: 45rem;
+  }
+
+  .section-heading {
+    margin-top: -90px;
   }
 
 	.middle-image {
@@ -336,8 +341,8 @@
 	}
 
 	.rightsidetext {
-    width: 86.1%;
-    margin-top: -65px;
+    width: 92%;
+    margin-top: -95px;
   }
 
   .card-name {
@@ -429,7 +434,8 @@
   }
 
 	.leftsidetext {
-    width: 424px;
+    /* width: 424px; */
+    width: 50%;
   }
 
 	.rightsidetext {
@@ -589,8 +595,8 @@
 }
 
 @media only screen and (max-width: 738px) {
-	.leftsidetext {
-    width: 385px;
+  .rightsidetext {
+    margin-top: -44px;
   }
 
 	.best-text {
@@ -603,8 +609,7 @@
 	}
 
 	.year {
-	  font-size: 1.1rem;
- 	  bottom: 165px;
+ 	  bottom: 164px;
     left: 156px;
 	}
 
@@ -625,14 +630,28 @@
 }
 
 @media only screen and (max-width: 708px) {
+  .about {
+    height: 60rem;
+  }
+
   .section-heading {
-    margin-top: -75px;
-    margin-bottom: 52px;
+    margin-top: 0px;
+    margin-bottom: 30px;
   }
 
   .leftsidetext {
-    width: 349px;
-    margin-top: -78px;
+    width: 89%;
+    margin-top: -76px;
+  }
+
+  .middle-image {
+    width: 89%;
+    margin-top: -33px;
+  }
+
+  .rightsidetext {
+    margin-top: 39px;
+    width: 89%;
   }
 
   .faq-section__content {
@@ -708,14 +727,6 @@
 }
 
 @media only screen and (max-width: 658px) {
-  .leftsidetext {
-    width: 358px;
-  }
-
-  .middle-image {
-    width: 39vh;
-  }
-
   .faq-section__content {
     right: -35px;
   }
@@ -743,38 +754,28 @@
     font-size: 1.1rem;
   }
 
-  .about {
-    padding: 13px 0px;
-  }
-
-  .about-bg {
-    height: 41.5rem;
+  .section-heading {
+    text-align: center;
   }
 
   .leftsidetext {
-    width: 315px;
-  }
-
-  .section-heading {
-    font-size: 1.2rem;
-    font-weight: 400;
-    margin-top: -95px;
-  }
-
-  .best-text {
-    font-size: 2rem;
-    font-weight: 400;
+    margin-top: -105px;
+    width: 90%;
   }
 
   .text40 {
-    font-size: 6.5rem;
-    bottom: 37px;
+    bottom: 34px;
+    left: 8rem;
   }
 
   .year {
-    font-size: 1rem;
     bottom: 154px;
-    left: 144px;
+    left: 17.5rem;
+  }
+
+  .middle-image {
+    margin-top: -70px;
+    margin-left: 118px;
   }
 
   .owner-bio {
@@ -783,7 +784,7 @@
 
   .rightsidetext {
     width: 90%;
-    margin-top: -127px;
+    margin-top: 0px;
   }
 
   .faq {
@@ -809,6 +810,10 @@
 }
 
 @media only screen and (max-width: 616px) {
+  .leftsidetext {
+    width: 91%;
+  }
+
   .product-home {
     height: 78vh;
   }
@@ -819,25 +824,25 @@
 }
 
 @media only screen and (max-width: 597px) {
+  .leftsidetext {
+    width: 93%;
+  }
+
+  .middle-image {
+    margin-top: -90px;
+    margin-left: 112px;
+  }
+
   .product-home {
     height: 80vh;
+  }
+
+  .best-text {
+    text-align: center;
   }
 }
 
 @media only screen and (max-width: 584px) {
-  .about-bg {
-    height: 54rem;
-  }
-
-	.leftsidetext {
-    width: auto;
-    margin-top: -16px;
-  }
-
-  .section-heading, .best-text {
-    text-align: center;
-  }
-
   .best-text {
     font-size: 2.18rem;
     font-weight: 500;
@@ -845,19 +850,23 @@
 
   .text40 {
     bottom: 33px;
-    left: 109px;
+    left: 115px;
     margin-bottom: -15px;
   }
 
   .year {
     font-size: 1.1rem;
     bottom: 122px;
-    left: 245px;
+    left: 264px;
+  }
+
+  .middle-image {
+    margin-top: -80px;
   }
 
   .rightsidetext {
     width: 91%;
-    margin-top: 29px;
+    margin-top: -35px;
   }
 
   .carousel-item h1 {
@@ -875,8 +884,8 @@
 }
 
 @media (max-width: 575.5px) {
-  .about-bg {
-    height: 56rem;
+  .middle-image {
+    margin-left: 103px;
   }
 
   .content{
@@ -929,6 +938,16 @@
   }
 }
 
+@media only screen and (max-width: 556px) {
+  .leftsidetext {
+    width: 95%;
+  }
+
+  .middle-image {
+    margin-left: 94px;
+  }
+}
+
 @media only screen and (max-width: 525px) {
   .btn-darken {
     padding: 0.50rem 1rem;
@@ -940,6 +959,15 @@
 
   .main-paragraph {
     font-size: 1.1rem;
+  }
+
+  .middle-image {
+    margin-top: -40px;
+    margin-left: 75px;
+  }
+
+  .rightsidetext {
+    margin-top: 0;
   }
 
   .product-home-text {
@@ -962,6 +990,10 @@
   .product-home {
     height: 79.5vh;
   }
+
+  .middle-image {
+    margin-left: 68px;
+  }
 }
 
 @media only screen and (max-width: 508px) {
@@ -979,6 +1011,10 @@
 }
 
 @media only screen and (max-width: 503px) {
+  .middle-image {
+    margin-left: 67px;
+  }
+
   .product-home {
     height: 80vh;
   }
@@ -991,6 +1027,18 @@
 @media only screen and (max-width: 500px) {
   .about-bg {
     height: 59rem;
+  }
+
+  .middle-image {
+    margin-left: 64px;
+  }
+
+  .text40 {
+    left: 103px;
+  }
+
+  .year {
+    left: 254px;
   }
 
   .faq {
@@ -1050,13 +1098,23 @@
   }
 }
 
+@media only screen and (max-width: 485px) {
+  .middle-image {
+    margin-left: 12%;
+  }
+}
+
 @media only screen and (max-width: 466px) {
   .heading-xl {
     font-size: 2.8rem;
   }
 
   .best-text {
-    margin-top: -19px;
+    margin-top: -13px;
+  }
+
+  .middle-image {
+    margin-left: 10%;
   }
 
   .faq-section-img {
@@ -1084,6 +1142,11 @@
     height: 15rem;
   }
 }
+@media only screen and (max-width: 453px) {
+  .middle-image {
+    margin-left: 7%;
+  }
+}
 
 @media only screen and (max-width: 437px) {
   .home {
@@ -1091,11 +1154,15 @@
   }
 
 	.text40 { 
-	  left: 95px;	
+	  left: 84px;	
 	}
 
 	.year {
-    left: 235px;
+    left: 231px;
+  }
+
+  .middle-image {
+    margin-left: 5%;
   }
 
   .card-name {
@@ -1150,6 +1217,22 @@
 }
 
 @media only screen and (max-width: 420px) {
+  .text40 {
+    left: 70px;
+  }
+
+  .year {
+    left: 218px;
+  }
+  
+  .middle-image {
+    margin-left: 2.2%;
+  }
+
+  .owner-bio { 
+    text-align: center;
+  }
+
   .faq-section-img {
     height: 340px;
   }
@@ -1178,6 +1261,10 @@
 }
 
 @media only screen and (max-width: 408px) {
+  .middle-image {
+    margin-left: 0;
+  }
+
   .product-home {
     height: 79vh;
   }
@@ -1211,7 +1298,7 @@
 
 @media only screen and (max-width: 394px) {
   .about-bg {
-    height: 62rem;
+    height: 60rem;
   }
 
   .factory-row {
@@ -1272,11 +1359,11 @@
   }
 
 	.text40 { 
-	  left: 74px;	
+	  left: 48px;	
 	}
 
 	.year {
-    left: 213px;
+    left: 196px;
   }
 
   .faq-section-img {
@@ -1324,6 +1411,10 @@
 }
 
 @media only screen and (max-width: 374px) {
+  .section-heading {
+    margin-top: 20px;
+  }
+
   .product-home {
     height: 88vh;
   }
@@ -1344,6 +1435,18 @@
 }
 
 @media only screen and (max-width: 349px) {
+  .leftsidetext {
+    width: 98%;
+  }
+
+  .text40 {
+    left: 35px;
+  }
+
+  .year {
+    left: 182px;
+  }
+
   .product-home {
     height: 82vh;
   }
@@ -1355,12 +1458,24 @@
 }
 
 @media only screen and (max-width: 331px) {
+  .about-bg {
+    height: 61.8rem;
+  }
+
 	.text40 { 
-	  left: 50px;	
+	  left: 36px;	
 	}
 
 	.year {
-    left: 188px;
+    left: 180px;
+  }
+
+  .middle-image {
+    margin-top: -20px;  
+  }
+
+  .rightsidetext {
+    margin-top: 20px;
   }
 
   .card-image {
@@ -1437,7 +1552,7 @@
   }
 
   .about-bg {
-    height: 59rem;
+    height: 60rem;
   }
 
   .best-text {
@@ -1446,7 +1561,7 @@
 
   .year {
     left: 171px;
-    bottom: 115px;
+    bottom: 105px;
     font-size: 1rem;
   }
 
@@ -1491,6 +1606,14 @@
 }
 
 @media only screen and (max-width: 304px) {
+  .text40 {
+    left: 41px;
+  }
+
+  .year {
+    left: 161px;
+  }
+
   .faq-section-img {
     height: 230px;
   }
@@ -1537,12 +1660,8 @@
 }
 
 @media only screen and (max-width: 288px) {
-  .home {
-    height: 41rem;
-  }
-
   .about-bg {
-    height: 62rem;
+    height: 60.5rem;
   }
 
   .best-text {
@@ -1608,7 +1727,7 @@
 
 @media only screen and (max-width: 272px) {
   .home {
-    height: 44rem;
+    height: 43rem;
   }
 
   .text40 {
@@ -1684,6 +1803,18 @@
 }
 
 @media only screen and (max-width: 264px) {
+  .about-bg {
+    height: 62rem;
+  }
+  
+  .text40 {
+    left: 20px;
+  } 
+
+  .year {
+    left: 127px;
+  }
+
   .product-home-text {
     padding: 7.2rem 1.4rem 0;
   }
