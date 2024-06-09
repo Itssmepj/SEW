@@ -322,17 +322,17 @@ main {
 }
 
 .leftsidetext {
-  padding-top: 155px;
+  padding-top: 100px;
   width: 498px;
   padding-left: 15px;
 }
 
 .section-heading {
-  padding-top: 21px;
-  margin-bottom: 25px;
   font-size: 1.4rem;
   font-weight: 500;
   color: #0d77b1;
+  padding-top: 21px;
+  margin-bottom: 25px;
 }
 
 .best-text {
@@ -1004,7 +1004,8 @@ a{
 }
 
 .fa-circle-check {
-  color: #0b4a6e;
+  /* color: #0b4a6e; */
+  color: #19648e;
 }
 
 .album  {
