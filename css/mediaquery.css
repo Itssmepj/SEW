@@ -219,6 +219,9 @@
     left: 46%;
   }
 
+  .policy-certificate {
+    padding: 3.2rem 0 2.5rem;
+  }
 }
 
 @media only screen and (max-width: 995px) {
@@ -258,6 +261,10 @@
 
   .product-home-text {
     padding: 12rem 4rem 0;
+  }
+
+  .policy-certificate {
+    padding: 3.2rem 0 1rem;
   }
 
   .contact-row .container .row {
@@ -775,7 +782,7 @@
 
   .middle-image {
     margin-top: -70px;
-    margin-left: 118px;
+    display: inline;
   }
 
   .owner-bio {
@@ -807,6 +814,10 @@
   .featurette-heading {
     font-size: 2.1rem;
   }
+
+  .policy-certificate {
+    padding: 3rem 0 1rem;
+  }
 }
 
 @media only screen and (max-width: 616px) {
@@ -830,7 +841,6 @@
 
   .middle-image {
     margin-top: -90px;
-    margin-left: 112px;
   }
 
   .product-home {
@@ -884,10 +894,6 @@
 }
 
 @media (max-width: 575.5px) {
-  .middle-image {
-    margin-left: 103px;
-  }
-
   .content{
     padding: 20px;
   }
@@ -936,15 +942,15 @@
     width: 56%;
     height: 17rem;
   }
+
+  .policy-image {
+    width: 65%;
+  }
 }
 
 @media only screen and (max-width: 556px) {
   .leftsidetext {
     width: 95%;
-  }
-
-  .middle-image {
-    margin-left: 94px;
   }
 }
 
@@ -963,7 +969,6 @@
 
   .middle-image {
     margin-top: -40px;
-    margin-left: 75px;
   }
 
   .rightsidetext {
@@ -978,6 +983,10 @@
     font-size: 2rem;
     margin-bottom: 45%;
   }
+
+  .policy-certificate {
+    padding: 3rem 0 1rem;
+  }  
 }
 
 @media only screen and (max-width: 518px) {
@@ -989,10 +998,6 @@
 @media only screen and (max-width: 511px) {
   .product-home {
     height: 79.5vh;
-  }
-
-  .middle-image {
-    margin-left: 68px;
   }
 }
 
@@ -1011,10 +1016,6 @@
 }
 
 @media only screen and (max-width: 503px) {
-  .middle-image {
-    margin-left: 67px;
-  }
-
   .product-home {
     height: 80vh;
   }
@@ -1027,10 +1028,6 @@
 @media only screen and (max-width: 500px) {
   .about-bg {
     height: 59rem;
-  }
-
-  .middle-image {
-    margin-left: 64px;
   }
 
   .text40 {
@@ -1096,11 +1093,9 @@
   .factory-features {
     padding: 0;
   }
-}
 
-@media only screen and (max-width: 485px) {
-  .middle-image {
-    margin-left: 12%;
+  .policy-image {
+    width: 80%;
   }
 }
 
@@ -1111,10 +1106,6 @@
 
   .best-text {
     margin-top: -13px;
-  }
-
-  .middle-image {
-    margin-left: 10%;
   }
 
   .faq-section-img {
@@ -1142,11 +1133,6 @@
     height: 15rem;
   }
 }
-@media only screen and (max-width: 453px) {
-  .middle-image {
-    margin-left: 7%;
-  }
-}
 
 @media only screen and (max-width: 437px) {
   .home {
@@ -1159,10 +1145,6 @@
 
 	.year {
     left: 231px;
-  }
-
-  .middle-image {
-    margin-left: 5%;
   }
 
   .card-name {
@@ -1224,10 +1206,6 @@
   .year {
     left: 218px;
   }
-  
-  .middle-image {
-    margin-left: 2.2%;
-  }
 
   .owner-bio { 
     text-align: center;
@@ -1261,10 +1239,6 @@
 }
 
 @media only screen and (max-width: 408px) {
-  .middle-image {
-    margin-left: 0;
-  }
-
   .product-home {
     height: 79vh;
   }
@@ -1346,6 +1320,10 @@
     width: 66%;
     height: 14rem;
     margin: 0 3.5rem;
+  }
+
+  .policy-image {
+    width: 95%;
   }
 }
 
@@ -1986,7 +1964,7 @@
     display: flex;
     flex-direction: row;
     column-gap: 2rem;
-    margin: 0 auto;
+    margin: 0 5px;
   }
   .menu-link {
     text-transform: capitalize;
@@ -2011,6 +1989,7 @@
   visibility: visible;
   transform: rotate(0deg);
   transition: 0.35s ease;
+  margin-right: 7px;
 }
 @media only screen and (min-width: 48rem) {
   .burger {

@@ -231,7 +231,7 @@ main {
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
-  column-gap: 1.25rem;
+  column-gap: 0rem;
   width: 100%;
   height: 4.25rem;
   margin: 0 auto;
@@ -286,9 +286,10 @@ main {
 }
 
 .menu-item:hover {
-  text-decoration: underline;
+  /* text-decoration: underline; */
+  text-decoration-skip-ink: none;
   transition: transform 0.3s;
-  /* transform: scale(1.1); */
+  transform: scale(1.1);
 }
 
 .menu-block {
@@ -1208,6 +1209,33 @@ a{
 .vision-end-row {
   margin-top: 2rem;
 }
+
+/* ---------------Certificate Page-------------- */
+.certificate {
+  padding: 7rem 0 4rem;
+  color: white;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.cert-title {
+  font-weight: 700;
+}
+
+.policy-certificate {
+  padding: 4.5rem 0 2.7rem;
+}
+
+.policy-image {
+  padding: 40px 0;
+  display: inline;
+}
+
+.policy-divider {
+  margin: 3px;
+}
+
 
 /* -------------------Contact Page---------------- */
 .contact {
