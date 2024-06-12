@@ -286,7 +286,6 @@ main {
 }
 
 .menu-item:hover {
-  /* text-decoration: underline; */
   text-decoration-skip-ink: none;
   transition: transform 0.3s;
   transform: scale(1.1);
@@ -1066,7 +1065,6 @@ a{
   background-position: centre;
   background-repeat: no-repeat;
   background-size: cover; 
-  /* background: #dff1ff;  */
 }
 
 .owner-section {
@@ -1076,6 +1074,17 @@ a{
 .owner-info {
   text-align: center;
   margin-bottom: 1.5rem;
+}
+
+.owner-img {
+  border-radius: 50%;
+  display: inline;
+}
+
+.owner-img:hover {
+  transform: scale(1.2);
+  box-shadow: 0px 0px 15px rgb(0 0 0);
+  transition: all 0.4s ease-in-out;
 }
 
 .owner-info p {
